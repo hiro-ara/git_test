@@ -2,3 +2,4 @@ gitの練習
 gitの練習2
 git rm
 git status
+git diff
